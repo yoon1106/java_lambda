@@ -1,6 +1,7 @@
 
 interface Printable{
 	void print (String s);
+
 }
 
 class Printer implements Printable{
