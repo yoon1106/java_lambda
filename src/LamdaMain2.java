@@ -17,7 +17,7 @@ interface Div {
 }
 
 interface Calculate {
-	int cal(int num1, int num2);
+	int cal(int num1, int num2);  
 }
 
 interface Generator {
