@@ -7,6 +7,7 @@
 
 //매서드 참조 표현식(method reference expression) => ::
 //1.스태틱 메서드인 경우 인스턴스 대신 클래스 이름으로 사용
+//2.생성자를 참조
 
 import java.util.Arrays;
 import java.util.List;
